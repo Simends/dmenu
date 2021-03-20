@@ -4,3 +4,4 @@ drw.o
 stest.o
 util.o
 stest
+dmenu.o
